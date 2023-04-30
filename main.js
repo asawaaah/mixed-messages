@@ -30,3 +30,5 @@ const formattedResult = generatedMessage => {
 
 // Call the message generator
 formattedResult();
+// test
+console.log('test');
